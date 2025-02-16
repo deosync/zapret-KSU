@@ -2,7 +2,7 @@
 > I am not responsible for any of your actions! Use this module at your risk!
 
 <p align="center">
-  <img src="https://github.com/sevcator/zapret-magisk/blob/main/icon.png?raw=true" 
+  <img src="https://github.com/deosync/zapret-KSU/blob/main/icon.png?raw=true" 
        alt="zapret" 
        width="128" 
        height="128">
@@ -17,7 +17,7 @@
 <p align="center"> </a> <a href="https://sevcator.github.io"> <img src="https://img.shields.io/badge/GitHub-Homepage-000000?logo=github" alt="GitHub - Homepage"> </a> </p>
 
 # How to use
-1. Download module from [Releases](https://github.com/sevcator/zapret-magisk/releases)
+1. Download module from [Releases](https://github.com/deosync/zapret-KSU/releases)
 2. Flash it and reboot device
 3. Enjoy! 🎉
 
